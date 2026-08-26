@@ -1,0 +1,14 @@
+.git
+.gitignore
+CONTEXT.md
+README.md
+.venv
+venv
+__pycache__
+*.pyc
+.env
+eval
+scripts
+tests
+pytest.ini
+requirements-dev.txt
